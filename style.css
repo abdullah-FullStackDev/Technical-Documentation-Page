@@ -12,15 +12,22 @@ body{
     background-color: rgb(0,100,0);
 }
 .fz{
-    font-size: 30px;
+    font-size: 31px;
 }
 li{
     padding: 5px;
     border: 1px solid white;
     list-style: none;
-    margin-bottom: 200px;
+    margin-bottom: 20px;
 }
 #nv{
     position: relative;
     right: 17px;
+}
+.main-doc{
+    position: relative;
+    left: 330px;
+    border: 1px solid black;
+    max-width: 950px;
+    padding: 20px;
 }
