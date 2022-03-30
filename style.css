@@ -5,8 +5,12 @@
     width: 323px;
     height: 100%;
     border: 1px white solid;
+    overflow-y: scroll;
 }
 body{
     color: white;
     background-color: rgb(0,100,0);
+}
+.fz{
+    font-size: 30px;
 }
