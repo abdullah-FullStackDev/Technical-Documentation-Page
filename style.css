@@ -18,4 +18,9 @@ li{
     padding: 5px;
     border: 1px solid white;
     list-style: none;
+    margin-bottom: 200px;
+}
+#nv{
+    position: relative;
+    right: 17px;
 }
