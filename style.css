@@ -1,4 +1,12 @@
 .sd{
+    position: fixed;
     left: 0;
     top: 0;
+    width: 323px;
+    height: 100%;
+    border: 1px white solid;
+}
+body{
+    color: white;
+    background-color: rgb(0,100,0);
 }
