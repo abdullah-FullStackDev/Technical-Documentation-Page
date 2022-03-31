@@ -21,13 +21,13 @@ body{
     margin-bottom: 20px;
 }
 #nv{
+    color: white;
     position: relative;
     right: 17px;
 }
 .main-doc{
     position: absolute;
     left: 330px;
-    border: 1px solid black;
     max-width: 950px;
     padding: 20px;
 }
@@ -47,4 +47,7 @@ body{
 }
 .li-2{
     list-style: numeric;
+}
+.c-2{
+    color: white;
 }
